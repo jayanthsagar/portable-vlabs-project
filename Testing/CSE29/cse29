@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost/" />
+<title>cse29</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">cse29</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Computer Science &amp; Engineering</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Breaking the Shift Cipher</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnDe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnDe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=textarea3</td>
+	<td>the quick brown fox</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Home</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Computer Science &amp; Engineering</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Breaking the Mono-alphabetic Substitution Cipher</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=calculateFreq</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=calculateFreq</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#lab-article-section-2-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=One-Time Pad and Perfect Secrecy</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=Next_Encryption</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=btnEn</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Please enter values for m1 and m2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=m1</td>
+	<td>asdsad</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=m2</td>
+	<td>sadasd</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Message Authentication Codes</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=applyFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=nextFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=applyFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Please enter an answer!</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=outputarea</td>
+	<td>ldkcmlmckladsmckladsmc</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=applyFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=applyFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=usertext</td>
+	<td>1010</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=applyFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=nextFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=nextFunction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=outputarea</td>
+	<td>1010</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=checkAnswer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Cryptography Lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cryptographic Hash Functions and Applications</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='experiment-article-navigation-menu']/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Cryptography Lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Symmetric Key Encryption Standards (DES)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Cryptography Lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='experiment-article-navigation-menu']/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Symmetric Key Encryption Standards (AES)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='experiment-article-navigation-menu']/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Cryptography Lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Introduction</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Diffie-Hellman Key Establishment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Another Generator']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=td &gt; input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Ga']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Send Ga to B']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gab']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gba']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Generate B']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gb']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Send Gb to A']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gab']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gab']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Calculate Gab']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Public-Key Cryptosystems (PKCSv1.5)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Invalid RSA public key</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td>asknlaskd</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Invalid RSA public key</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td>12312ndskjfnsdfjk213234</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Invalid RSA public key</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cryptography Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Digital Signatures</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiment</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Apply RSA']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Hash output and input to RSA should be same!</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td>a94a8fe5ccb19ba61c4c0873d391e987982fbbd3</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Apply RSA']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Invalid RSA public key</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Apply RSA']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Hash output and input to RSA should be same!</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=input</td>
+	<td>iashfndjakdsn</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=input[type=&quot;button&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=plaintext</td>
+	<td>6736d05a20e6de2d787b294fccdc1322f18d793b</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='Apply RSA']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertAlert</td>
+	<td>Invalid RSA public key</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=ciphertext</td>
+	<td>6736d05a20e6de2d787b294fccdc1322f18d793b</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=cipherb64</td>
+	<td>6736d05a20e6de2d787b294fccdc1322f18d793b</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=status</td>
+	<td>6736d05a20e6de2d787b294fccdc1322f18d793b</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='1024 bit (e=3)']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='1024 bit']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//input[@value='512 bit (e=3)']</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Cryptography Lab')])[2]</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost/" />
+<title>mvlab</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">mvlab</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/index-phy.html</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Virtual Microwave Lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=td &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='login']/table/tbody/tr/td[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_firstname</td>
+	<td>nu</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_lastname</td>
+	<td>ch</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=user_email</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_email</td>
+	<td>ak@iiit</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password1</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=submit3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_name</td>
+	<td>aki@iiit</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=login_frmSubmit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='login']/table/tbody/tr/td[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_firstname</td>
+	<td>nu</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_lastname</td>
+	<td>ch</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_email</td>
+	<td>aki@iiit</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password1</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>id=submit3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_name</td>
+	<td>aki@iiit</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>id=user_password</td>
+	<td>12345</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=login_frmSubmit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//a[contains(text(),'Design and Characterisation&nbsp;&nbsp;of Strip Line')]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=li.TabbedPanelsTab.TabbedPanelsTabHover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=li.TabbedPanelsTab.TabbedPanelsTabHover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Virtual Microwave Lab</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost/" />
+<title>eee05</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">eee05</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/eee05/index.html</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Characterize the temperature sensor (RTD)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Sensor Modelling &amp; Simulation</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Characterize the temperature sensor (RTD)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=exact:http://coep.vlab.co.in/?sub=33&amp;brch=91</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Characterize the temperature sensor (Thermocouple)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Measurement of level in a tank using capacitive type level probe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Measurement of level in a tank using capacitive type level probe</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Characterize the LVDT</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Characterize the strain gauge sensor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Simulate the performance of a chemical sensor (pH)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Simulate the performance of a chemical sensor (pH)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Simulate the performance of a chemical sensor (Conductivity)</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Simulate the performance of a bio-sensor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Design an orifice plate for a typical application</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Mechanical Engineering</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Electrical Engineering</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Sensor Modelling &amp; Simulation</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

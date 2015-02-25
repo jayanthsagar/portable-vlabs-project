@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost/" />
+<title>eee10</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">eee10</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>xpath=(//td[@id='vrlinks'])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Electrical Engineering</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Electrical Machines</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Load Test On Separately Excited DC Generator</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='panelbar']/li/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='panelbar']/li[3]/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='panelbar']/li[5]/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//li[@id='exp1b']/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Electrical Machines</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Load Test On Separately Excited DC Motor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#experiment-article-section-5-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrical Machines lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Speed Control of Separately Excited DC Motor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//li[@id='exp3']/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrical Machines lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=No Load Test on Three Phase Induction Motor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Blocked Rotor Test on Three Phase Induction Motor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrical Machines lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Open Circuit Test on Three Phase Alternator</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='panelbar']/li[5]/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>//ul[@id='panelbar']/li/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=span.k-link.k-state-hover</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Electrical Machines</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Open Circuit Test on Three Phase Alternator</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-4-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrical Machines lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Short Circuit Test on Three Phase Alternator</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrical Machines lab')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=V and Inverted V curves of Synchronous Motor</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#experiment-article-section-5-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Electrical Machines</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Open Circuit Test on Three Phase Alternator</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=experiment-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=To perform experiment ,click here.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>LOCATOR_DETECTION_FAILED</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Electrical Machines</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

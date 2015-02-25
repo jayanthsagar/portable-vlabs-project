@@ -1,0 +1,23 @@
+import os
+import sys
+v=sys.argv[1]
+d=''
+for i in v:
+    d='' if i=='/' else d+i
+os.chdir(v)
+os.mkdir("DEBIAN")
+fil=open("DEBIAN/control","w+")
+fil.write("Section: x11\n")
+fil.write("Priority: extra\n")
+fil.write("Maintainer:"+" "+"Vlabs"+' '+'<'+'engg@vlabs.ac.in'+'>\n')
+fil.write("Build-Depends: php5, apache2\n")
+fil.write("Standards-Version: "+"1.0"+'\n')
+fil.write("Homepage: http://vlab.co.in\n")
+fil.write("Package: "+d+'\n')
+fil.write("Architecture: all\n")
+fil.write("Version: "+"1.0"+'\n')
+fil.write("Depends: php5, apache2\n")
+fil.write("Description: "+d+' lab package\n') 
+fil.close()
+print d
+

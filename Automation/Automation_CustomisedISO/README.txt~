@@ -1,0 +1,4 @@
+----------Instructions for running the Automated ISO Customisation script------------------------------
+1. Make sure the directory contains libflashplayer.iso, xampp and Final Vlabs.
+2. Run the command "bash makeos.sh" in that directory.
+

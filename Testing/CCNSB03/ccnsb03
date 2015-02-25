@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://localhost/" />
+<title>ccnsb03\</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">ccnsb03\</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Chemical Sciences</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Molecular Absorption Spectroscopy</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-2-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to study the principle</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to find out how the instrument works</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=a &gt; li</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li/ul/strong/a[2]/li</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li/ul/strong/a[3]/li</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[2]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[3]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to find out the effect of sample path length</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[4]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#lab-article-section-5-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#lab-article-section-5-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to find out the effect of sample concentration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=img[alt=&quot;Get Adobe Flash player&quot;]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[4]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to find out the effect of sample concentration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-7-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[5]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[4]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to find out the effect of sample concentration</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[6]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[7]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#lab-article-section-5-menu &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[6]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[7]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[8]/a[2]/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//ul[@id='lab-article-navigation-menu']/li[8]/a[2]/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[8]/a[2]/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[9]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Experiments</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='lab-article-section-2-content']/ol/li[10]/a/strong</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>id=lab-article-section-5-menu</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>link=Click here to go to lab</td>
+	<td></td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
